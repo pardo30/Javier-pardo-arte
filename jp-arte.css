@@ -151,7 +151,6 @@ footer{
 .img-grabados{
     width: 250px;
     border-radius: 10%;
-
 }
 /* OBRAS */
 #obras{
@@ -206,11 +205,14 @@ footer{
     vertical-align: top;
     transition: 2s;
 }
+.img-obras{
+    height: 70vh;
+}
 .img-doble{
     display: flex;
     align-items: center;
     justify-content: space-around;
-    max-height: 75vh;
+    height: 75vh;
 }
 .img-doble img{
     padding: 10px;
@@ -308,7 +310,7 @@ footer{
 
 /* CONTACTO */
 #contacto{
-    width: 70%;
+    width: 900px;
     margin: auto;
     display: flex;
     justify-content: space-between;
@@ -319,9 +321,16 @@ footer{
 }
 .contacto-txt h2{
     margin: 0;
+    font-size: 2em;
+    font-weight: bold;
+}
+.contacto-txt h3{
+    font-size: 1em;
+    font-weight: bold;
 }
 .contacto-txt p{
     text-align: justify;
+    font-size: 1em;
 }
 .contacto-txt a{
     text-decoration: none;
