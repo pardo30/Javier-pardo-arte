@@ -70,7 +70,7 @@ header{
 }
 .menu-ind img{
     width: 250px;
-    border-radius: 100%;
+    border-radius: 10%;
 }
 
 .txt-img{
