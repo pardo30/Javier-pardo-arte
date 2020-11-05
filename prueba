@@ -7,7 +7,7 @@
     <title>Document</title>
 </head>
 
-<link href="https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Open+Sans&family=Roboto&display=swap" rel="stylesheet"> 
+<link href="https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Nunito&family=Open+Sans&family=Roboto&display=swap" rel="stylesheet">
 <body>
     <div>
         <a href="#"><img src="logo.png" alt="logotipo">
