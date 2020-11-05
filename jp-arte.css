@@ -8,7 +8,15 @@ body{
 section{
     flex: 1;
 }
-
+h1{
+    font-family: 'Roboto', sans-serif;
+}
+h2{
+    font-family: 'Roboto', sans-serif;
+}
+h3{
+    font-family: 'Roboto', sans-serif;
+}
 /* Header */
 header{
     width: 90%;
@@ -21,7 +29,7 @@ header{
 .titulo a{
     text-decoration: none;
     color:#000000;
-    font-family: Helvetica, sans-serif;
+    font-family: 'Architects Daughter';
     font-size: 30px;
 }
 .logo-header{
