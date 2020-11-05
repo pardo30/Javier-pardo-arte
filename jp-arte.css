@@ -64,13 +64,13 @@ header{
     position: relative;
     text-align: center;
     padding: 25px;
-    width: 250px;
-    height: 250px;
+    width: 300px;
+    height: 300px;
     overflow: hidden;
 }
 .menu-ind img{
-    width: 250px;
-    border-radius: 100%;
+    width: 300px;
+    border-radius: 10%;
 }
 
 .txt-img{
@@ -149,7 +149,7 @@ footer{
     font-size: 1.5em;
 }
 .img-grabados{
-    width: 250px;
+    width: 300px;
     border-radius: 10%;
 }
 /* OBRAS */
