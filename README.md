@@ -1,3 +1,3 @@
 # Javier-pardo-arte
 
-# Prueab de Web de grabados, acuarelas y esmaltes
+# Prueba de Web de grabados, acuarelas y esmaltes
